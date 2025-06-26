@@ -1,0 +1,22 @@
+[
+  {
+    "name": "sugar",
+    "category": "sugar",
+    "price": "500",
+    "quantity": "5",
+    "farmerName": "sanjana",
+    "location": "hyd",
+    "contact": "hyd",
+    "image": null
+  },
+  {
+    "name": "tomatoes",
+    "category": "vegetables",
+    "price": "50",
+    "quantity": "2",
+    "farmerName": "sanjana",
+    "location": "hyd",
+    "contact": "9874125874",
+    "image": null
+  }
+]
